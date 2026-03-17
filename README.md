@@ -63,3 +63,10 @@ flask run
 
 
 <small>© 2019 Boudhayan Dev.  All rights reserved.</small>
+🎉 Happy Birthday 🎂  
+Customized by Aakritish  
+
+✨ New Features:
+- Improved UI 🎨  
+- Added animations 🎉  
+- Personalized message 💌
